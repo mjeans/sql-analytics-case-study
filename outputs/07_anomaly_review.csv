@@ -1,0 +1,11 @@
+site_id,site_name,region,month_start,completed_services,prior_3m_average,relative_change,recommended_action
+S007,Summit,East,2025-09-01,3,30.0,-0.9,Review operational context
+S007,Summit,East,2025-10-01,6,21.3,-0.719,Review operational context
+S007,Summit,East,2025-11-01,4,11.7,-0.657,Review operational context
+S001,Harbor,North,2025-09-01,24,41.3,-0.419,Review operational context
+S004,Lakeside,West,2025-12-01,22,33.0,-0.333,Review operational context
+S008,Park,West,2025-08-01,25,36.7,-0.318,Review operational context
+S002,Riverside,South,2025-12-01,22,31.3,-0.298,Review operational context
+S006,Juniper,South,2025-10-01,24,32.3,-0.258,Review operational context
+S006,Juniper,South,2025-08-01,28,37.7,-0.257,Review operational context
+S004,Lakeside,West,2025-09-01,31,41.7,-0.256,Review operational context

@@ -1,0 +1,7 @@
+check_name,failed_rows
+duplicate_site_key,0
+duplicate_member_key,0
+orphan_service_member,0
+orphan_ticket_member,0
+service_before_signup,0
+invalid_completed_duration,0

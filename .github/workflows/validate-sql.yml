@@ -1,0 +1,24 @@
+name: Validate SQL case study
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  integration-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - name: Build database and save query outputs
+        run: |
+          python scripts/build_demo_database.py
+          python scripts/run_queries.py
+      - name: Run integration tests
+        run: python -m unittest discover -s tests -v

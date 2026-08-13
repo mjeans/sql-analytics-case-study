@@ -4,6 +4,8 @@ A runnable SQL case study for a fictional multisite service organization. The pr
 
 All data are deterministic and synthetic. No real customer, patient, employee, or organization information is included.
 
+![SQL analytics case study overview](assets/analytics-overview.svg)
+
 ## Business questions
 
 - Which acquisition channels produce members who activate within 14 days?

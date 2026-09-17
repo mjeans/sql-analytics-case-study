@@ -4,7 +4,7 @@ A runnable SQL case study for a fictional multisite service organization. The pr
 
 All data are deterministic and synthetic. No real customer, patient, employee, or organization information is included.
 
-![SQL analytics case study overview](assets/analytics-overview.svg)
+![SQL analytics case study overview](assets/analytics-overview.svg?v=26aca1c)
 
 ## Business questions
 

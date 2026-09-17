@@ -27,6 +27,12 @@ The database contains 8 sites, 480 members, service-event history, and support t
 
 ## Results at a glance
 
+![Cohort activity heatmap with original-cohort denominators](assets/cohort-retention.svg)
+
+![Activation and continued-use rates with exact counts](assets/activation-retention.svg)
+
+Read the [executed SQL report](outputs/report.md) for definitions, denominators, and interpretation boundaries.
+
 | Signal | Synthetic result |
 |---|---:|
 | Referral 14-day activation | 65.5% |
@@ -69,6 +75,7 @@ Only Python's standard library is required.
 ~~~bash
 python scripts/build_demo_database.py
 python scripts/run_queries.py
+python scripts/render_results.py
 python -m unittest discover -s tests -v
 ~~~
 

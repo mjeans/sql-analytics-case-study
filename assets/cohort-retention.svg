@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="665" viewBox="0 0 1100 665" role="img" aria-labelledby="title desc">
+<title id="title">Activity across signup cohorts</title><desc id="desc">Calendar-month activity heatmap. Each cell labels its numerator and original-cohort denominator. Returning members can reappear; this is not a survival curve.</desc>
+<rect width="100%" height="100%" fill="white"/><g font-family="Arial, sans-serif">
+<text x="40" y="48" font-size="29" fill="#142d42" text-anchor="start">Activity across signup cohorts</text>
+<text x="40" y="82" font-size="16" fill="#687b89" text-anchor="start">Synthetic 2025 cohort data | each cell: active members / original signups</text>
+<text x="257" y="139" font-size="16" fill="#687b89" text-anchor="middle">Month 0</text>
+<text x="373" y="139" font-size="16" fill="#687b89" text-anchor="middle">Month 1</text>
+<text x="489" y="139" font-size="16" fill="#687b89" text-anchor="middle">Month 2</text>
+<text x="605" y="139" font-size="16" fill="#687b89" text-anchor="middle">Month 3</text>
+<text x="721" y="139" font-size="16" fill="#687b89" text-anchor="middle">Month 4</text>
+<text x="837" y="139" font-size="16" fill="#687b89" text-anchor="middle">Month 5</text>
+<text x="953" y="139" font-size="16" fill="#687b89" text-anchor="middle">Month 6</text>
+<text x="40" y="197" font-size="18" fill="#142d42" text-anchor="start">2025-01</text>
+<rect x="203" y="168" width="108" height="54" rx="4" fill="#66a0a3"/>
+<text x="257" y="190" font-size="18" fill="#000000" text-anchor="middle">59%</text>
+<text x="257" y="210" font-size="13" fill="#000000" text-anchor="middle">47/80</text>
+<rect x="319" y="168" width="108" height="54" rx="4" fill="#468c90"/>
+<text x="373" y="190" font-size="18" fill="#000000" text-anchor="middle">72%</text>
+<text x="373" y="210" font-size="13" fill="#000000" text-anchor="middle">58/80</text>
+<rect x="435" y="168" width="108" height="54" rx="4" fill="#639ea1"/>
+<text x="489" y="190" font-size="18" fill="#000000" text-anchor="middle">60%</text>
+<text x="489" y="210" font-size="13" fill="#000000" text-anchor="middle">48/80</text>
+<rect x="551" y="168" width="108" height="54" rx="4" fill="#6ba3a6"/>
+<text x="605" y="190" font-size="18" fill="#000000" text-anchor="middle">56%</text>
+<text x="605" y="210" font-size="13" fill="#000000" text-anchor="middle">45/80</text>
+<rect x="667" y="168" width="108" height="54" rx="4" fill="#77abad"/>
+<text x="721" y="190" font-size="18" fill="#000000" text-anchor="middle">51%</text>
+<text x="721" y="210" font-size="13" fill="#000000" text-anchor="middle">41/80</text>
+<rect x="783" y="168" width="108" height="54" rx="4" fill="#88b6b8"/>
+<text x="837" y="190" font-size="18" fill="#000000" text-anchor="middle">44%</text>
+<text x="837" y="210" font-size="13" fill="#000000" text-anchor="middle">35/80</text>
+<rect x="899" y="168" width="108" height="54" rx="4" fill="#88b6b8"/>
+<text x="953" y="190" font-size="18" fill="#000000" text-anchor="middle">44%</text>
+<text x="953" y="210" font-size="13" fill="#000000" text-anchor="middle">35/80</text>
+<text x="40" y="259" font-size="18" fill="#142d42" text-anchor="start">2025-02</text>
+<rect x="203" y="230" width="108" height="54" rx="4" fill="#8fbabc"/>
+<text x="257" y="252" font-size="18" fill="#000000" text-anchor="middle">40%</text>
+<text x="257" y="272" font-size="13" fill="#000000" text-anchor="middle">36/89</text>
+<rect x="319" y="230" width="108" height="54" rx="4" fill="#4d9093"/>
+<text x="373" y="252" font-size="18" fill="#000000" text-anchor="middle">70%</text>
+<text x="373" y="272" font-size="13" fill="#000000" text-anchor="middle">62/89</text>
+<rect x="435" y="230" width="108" height="54" rx="4" fill="#71a7a9"/>
+<text x="489" y="252" font-size="18" fill="#000000" text-anchor="middle">54%</text>
+<text x="489" y="272" font-size="13" fill="#000000" text-anchor="middle">48/89</text>
+<rect x="551" y="230" width="108" height="54" rx="4" fill="#76aaad"/>
+<text x="605" y="252" font-size="18" fill="#000000" text-anchor="middle">52%</text>
+<text x="605" y="272" font-size="13" fill="#000000" text-anchor="middle">46/89</text>
+<rect x="667" y="230" width="108" height="54" rx="4" fill="#71a7a9"/>
+<text x="721" y="252" font-size="18" fill="#000000" text-anchor="middle">54%</text>
+<text x="721" y="272" font-size="13" fill="#000000" text-anchor="middle">48/89</text>
+<rect x="783" y="230" width="108" height="54" rx="4" fill="#66a0a3"/>
+<text x="837" y="252" font-size="18" fill="#000000" text-anchor="middle">58%</text>
+<text x="837" y="272" font-size="13" fill="#000000" text-anchor="middle">52/89</text>
+<rect x="899" y="230" width="108" height="54" rx="4" fill="#80b1b3"/>
+<text x="953" y="252" font-size="18" fill="#000000" text-anchor="middle">47%</text>
+<text x="953" y="272" font-size="13" fill="#000000" text-anchor="middle">42/89</text>
+<text x="40" y="321" font-size="18" fill="#142d42" text-anchor="start">2025-03</text>
+<rect x="203" y="292" width="108" height="54" rx="4" fill="#6da5a8"/>
+<text x="257" y="314" font-size="18" fill="#000000" text-anchor="middle">55%</text>
+<text x="257" y="334" font-size="13" fill="#000000" text-anchor="middle">47/85</text>
+<rect x="319" y="292" width="108" height="54" rx="4" fill="#358185"/>
+<text x="373" y="314" font-size="18" fill="#000000" text-anchor="middle">80%</text>
+<text x="373" y="334" font-size="13" fill="#000000" text-anchor="middle">68/85</text>
+<rect x="435" y="292" width="108" height="54" rx="4" fill="#6da5a8"/>
+<text x="489" y="314" font-size="18" fill="#000000" text-anchor="middle">55%</text>
+<text x="489" y="334" font-size="13" fill="#000000" text-anchor="middle">47/85</text>
+<rect x="551" y="292" width="108" height="54" rx="4" fill="#65a0a3"/>
+<text x="605" y="314" font-size="18" fill="#000000" text-anchor="middle">59%</text>
+<text x="605" y="334" font-size="13" fill="#000000" text-anchor="middle">50/85</text>
+<rect x="667" y="292" width="108" height="54" rx="4" fill="#80b1b3"/>
+<text x="721" y="314" font-size="18" fill="#000000" text-anchor="middle">47%</text>
+<text x="721" y="334" font-size="13" fill="#000000" text-anchor="middle">40/85</text>
+<rect x="783" y="292" width="108" height="54" rx="4" fill="#65a0a3"/>
+<text x="837" y="314" font-size="18" fill="#000000" text-anchor="middle">59%</text>
+<text x="837" y="334" font-size="13" fill="#000000" text-anchor="middle">50/85</text>
+<rect x="899" y="292" width="108" height="54" rx="4" fill="#80b1b3"/>
+<text x="953" y="314" font-size="18" fill="#000000" text-anchor="middle">47%</text>
+<text x="953" y="334" font-size="13" fill="#000000" text-anchor="middle">40/85</text>
+<text x="40" y="383" font-size="18" fill="#142d42" text-anchor="start">2025-04</text>
+<rect x="203" y="354" width="108" height="54" rx="4" fill="#7fb0b3"/>
+<text x="257" y="376" font-size="18" fill="#000000" text-anchor="middle">47%</text>
+<text x="257" y="396" font-size="13" fill="#000000" text-anchor="middle">28/59</text>
+<rect x="319" y="354" width="108" height="54" rx="4" fill="#327f83"/>
+<text x="373" y="376" font-size="18" fill="white" text-anchor="middle">81%</text>
+<text x="373" y="396" font-size="13" fill="white" text-anchor="middle">48/59</text>
+<rect x="435" y="354" width="108" height="54" rx="4" fill="#83b3b5"/>
+<text x="489" y="376" font-size="18" fill="#000000" text-anchor="middle">46%</text>
+<text x="489" y="396" font-size="13" fill="#000000" text-anchor="middle">27/59</text>
+<rect x="551" y="354" width="108" height="54" rx="4" fill="#83b3b5"/>
+<text x="605" y="376" font-size="18" fill="#000000" text-anchor="middle">46%</text>
+<text x="605" y="396" font-size="13" fill="#000000" text-anchor="middle">27/59</text>
+<rect x="667" y="354" width="108" height="54" rx="4" fill="#7baeb0"/>
+<text x="721" y="376" font-size="18" fill="#000000" text-anchor="middle">49%</text>
+<text x="721" y="396" font-size="13" fill="#000000" text-anchor="middle">29/59</text>
+<rect x="783" y="354" width="108" height="54" rx="4" fill="#8bb8ba"/>
+<text x="837" y="376" font-size="18" fill="#000000" text-anchor="middle">42%</text>
+<text x="837" y="396" font-size="13" fill="#000000" text-anchor="middle">25/59</text>
+<rect x="899" y="354" width="108" height="54" rx="4" fill="#8fbabc"/>
+<text x="953" y="376" font-size="18" fill="#000000" text-anchor="middle">41%</text>
+<text x="953" y="396" font-size="13" fill="#000000" text-anchor="middle">24/59</text>
+<text x="40" y="445" font-size="18" fill="#142d42" text-anchor="start">2025-05</text>
+<rect x="203" y="416" width="108" height="54" rx="4" fill="#74a9ac"/>
+<text x="257" y="438" font-size="18" fill="#000000" text-anchor="middle">52%</text>
+<text x="257" y="458" font-size="13" fill="#000000" text-anchor="middle">43/82</text>
+<rect x="319" y="416" width="108" height="54" rx="4" fill="#4a8e92"/>
+<text x="373" y="438" font-size="18" fill="#000000" text-anchor="middle">71%</text>
+<text x="373" y="458" font-size="13" fill="#000000" text-anchor="middle">58/82</text>
+<rect x="435" y="416" width="108" height="54" rx="4" fill="#639ea1"/>
+<text x="489" y="438" font-size="18" fill="#000000" text-anchor="middle">60%</text>
+<text x="489" y="458" font-size="13" fill="#000000" text-anchor="middle">49/82</text>
+<rect x="551" y="416" width="108" height="54" rx="4" fill="#71a7aa"/>
+<text x="605" y="438" font-size="18" fill="#000000" text-anchor="middle">54%</text>
+<text x="605" y="458" font-size="13" fill="#000000" text-anchor="middle">44/82</text>
+<rect x="667" y="416" width="108" height="54" rx="4" fill="#8db9bb"/>
+<text x="721" y="438" font-size="18" fill="#000000" text-anchor="middle">41%</text>
+<text x="721" y="458" font-size="13" fill="#000000" text-anchor="middle">34/82</text>
+<rect x="783" y="416" width="108" height="54" rx="4" fill="#6ca4a6"/>
+<text x="837" y="438" font-size="18" fill="#000000" text-anchor="middle">56%</text>
+<text x="837" y="458" font-size="13" fill="#000000" text-anchor="middle">46/82</text>
+<rect x="899" y="416" width="108" height="54" rx="4" fill="#6ea5a8"/>
+<text x="953" y="438" font-size="18" fill="#000000" text-anchor="middle">55%</text>
+<text x="953" y="458" font-size="13" fill="#000000" text-anchor="middle">45/82</text>
+<text x="40" y="507" font-size="18" fill="#142d42" text-anchor="start">2025-06</text>
+<rect x="203" y="478" width="108" height="54" rx="4" fill="#86b4b6"/>
+<text x="257" y="500" font-size="18" fill="#000000" text-anchor="middle">45%</text>
+<text x="257" y="520" font-size="13" fill="#000000" text-anchor="middle">38/85</text>
+<rect x="319" y="478" width="108" height="54" rx="4" fill="#3d868a"/>
+<text x="373" y="500" font-size="18" fill="#000000" text-anchor="middle">76%</text>
+<text x="373" y="520" font-size="13" fill="#000000" text-anchor="middle">65/85</text>
+<rect x="435" y="478" width="108" height="54" rx="4" fill="#70a7a9"/>
+<text x="489" y="500" font-size="18" fill="#000000" text-anchor="middle">54%</text>
+<text x="489" y="520" font-size="13" fill="#000000" text-anchor="middle">46/85</text>
+<rect x="551" y="478" width="108" height="54" rx="4" fill="#75aaad"/>
+<text x="605" y="500" font-size="18" fill="#000000" text-anchor="middle">52%</text>
+<text x="605" y="520" font-size="13" fill="#000000" text-anchor="middle">44/85</text>
+<rect x="667" y="478" width="108" height="54" rx="4" fill="#78acae"/>
+<text x="721" y="500" font-size="18" fill="#000000" text-anchor="middle">51%</text>
+<text x="721" y="520" font-size="13" fill="#000000" text-anchor="middle">43/85</text>
+<rect x="783" y="478" width="108" height="54" rx="4" fill="#80b1b3"/>
+<text x="837" y="500" font-size="18" fill="#000000" text-anchor="middle">47%</text>
+<text x="837" y="520" font-size="13" fill="#000000" text-anchor="middle">40/85</text>
+<rect x="899" y="478" width="108" height="54" rx="4" fill="#88b6b8"/>
+<text x="953" y="500" font-size="18" fill="#000000" text-anchor="middle">44%</text>
+<text x="953" y="520" font-size="13" fill="#000000" text-anchor="middle">37/85</text>
+<text x="40" y="579" font-size="15" fill="#687b89" text-anchor="start">Darker cells indicate a higher fraction active (common 0–100% scale).</text>
+<text x="40" y="610" font-size="15" fill="#687b89" text-anchor="start">Month 0 is the signup calendar month; exposure days vary. Activity can resume after an inactive month.</text>
+<text x="40" y="639" font-size="14" fill="#687b89" text-anchor="start">Source: 04_cohort_retention.sql. Frozen synthetic example through December 2025; not causal evidence.</text>
+</g></svg>

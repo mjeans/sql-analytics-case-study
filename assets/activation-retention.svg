@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="555" viewBox="0 0 1100 555" role="img" aria-labelledby="title desc">
+<title id="title">Activation and continued use</title><desc id="desc">Paired activation within 14 days and continued-use by 45-day rates, with exact counts by acquisition channel. Continued use requires activity in both windows.</desc>
+<rect width="100%" height="100%" fill="white"/><g font-family="Arial, sans-serif">
+<text x="40" y="48" font-size="29" fill="#142d42" text-anchor="start">Activation and continued use</text>
+<text x="40" y="82" font-size="16" fill="#687b89" text-anchor="start">Synthetic January–June 2025 signups | all rates use original signups as the denominator</text>
+<line x1="225.0" y1="156" x2="225.0" y2="397" stroke="#dae3e9"/>
+<text x="225.0" y="424" font-size="14" fill="#687b89" text-anchor="middle">0%</text>
+<line x1="320.0" y1="156" x2="320.0" y2="397" stroke="#dae3e9"/>
+<text x="320.0" y="424" font-size="14" fill="#687b89" text-anchor="middle">20%</text>
+<line x1="415.0" y1="156" x2="415.0" y2="397" stroke="#dae3e9"/>
+<text x="415.0" y="424" font-size="14" fill="#687b89" text-anchor="middle">40%</text>
+<line x1="510.0" y1="156" x2="510.0" y2="397" stroke="#dae3e9"/>
+<text x="510.0" y="424" font-size="14" fill="#687b89" text-anchor="middle">60%</text>
+<line x1="605.0" y1="156" x2="605.0" y2="397" stroke="#dae3e9"/>
+<text x="605.0" y="424" font-size="14" fill="#687b89" text-anchor="middle">80%</text>
+<line x1="700.0" y1="156" x2="700.0" y2="397" stroke="#dae3e9"/>
+<text x="700.0" y="424" font-size="14" fill="#687b89" text-anchor="middle">100%</text>
+<text x="765" y="135" font-size="14" fill="#687b89" text-anchor="start">Activated / signups</text>
+<text x="930" y="135" font-size="14" fill="#687b89" text-anchor="start">Retained / signups</text>
+<text x="40" y="186" font-size="18" fill="#142d42" text-anchor="start">Outreach</text>
+<text x="40" y="207" font-size="14" fill="#687b89" text-anchor="start">n = 110</text>
+<line x1="376.1363636363636" y1="186" x2="415.0" y2="186" stroke="#687b89" stroke-width="2"/>
+<circle cx="415.0" cy="186" r="6" fill="white" stroke="#687b89" stroke-width="2"/>
+<circle cx="376.1363636363636" cy="186" r="6" fill="#087e83"/>
+<text x="765" y="191" font-size="15" fill="#142d42" text-anchor="start">44/110 (40.0%)</text>
+<text x="930" y="191" font-size="15" fill="#142d42" text-anchor="start">35/110 (31.8%)</text>
+<text x="40" y="248" font-size="18" fill="#142d42" text-anchor="start">Partner</text>
+<text x="40" y="269" font-size="14" fill="#687b89" text-anchor="start">n = 93</text>
+<line x1="449.73118279569894" y1="248" x2="511.02150537634407" y2="248" stroke="#687b89" stroke-width="2"/>
+<circle cx="511.02150537634407" cy="248" r="6" fill="white" stroke="#687b89" stroke-width="2"/>
+<circle cx="449.73118279569894" cy="248" r="6" fill="#087e83"/>
+<text x="765" y="253" font-size="15" fill="#142d42" text-anchor="start">56/93 (60.2%)</text>
+<text x="930" y="253" font-size="15" fill="#142d42" text-anchor="start">44/93 (47.3%)</text>
+<text x="40" y="310" font-size="18" fill="#142d42" text-anchor="start">Referral</text>
+<text x="40" y="331" font-size="14" fill="#687b89" text-anchor="start">n = 148</text>
+<line x1="501.0135135135135" y1="310" x2="536.3175675675675" y2="310" stroke="#687b89" stroke-width="2"/>
+<circle cx="536.3175675675675" cy="310" r="6" fill="white" stroke="#687b89" stroke-width="2"/>
+<circle cx="501.0135135135135" cy="310" r="6" fill="#087e83"/>
+<text x="765" y="315" font-size="15" fill="#142d42" text-anchor="start">97/148 (65.5%)</text>
+<text x="930" y="315" font-size="15" fill="#142d42" text-anchor="start">86/148 (58.1%)</text>
+<text x="40" y="372" font-size="18" fill="#142d42" text-anchor="start">Web</text>
+<text x="40" y="393" font-size="14" fill="#687b89" text-anchor="start">n = 129</text>
+<line x1="383.33333333333337" y1="372" x2="442.2480620155039" y2="372" stroke="#687b89" stroke-width="2"/>
+<circle cx="442.2480620155039" cy="372" r="6" fill="white" stroke="#687b89" stroke-width="2"/>
+<circle cx="383.33333333333337" cy="372" r="6" fill="#087e83"/>
+<text x="765" y="377" font-size="15" fill="#142d42" text-anchor="start">59/129 (45.7%)</text>
+<text x="930" y="377" font-size="15" fill="#142d42" text-anchor="start">43/129 (33.3%)</text>
+<text x="225" y="465" font-size="15" fill="#687b89" text-anchor="start">Open: activated within 14 days   |   Filled: activity in both 0–14 and 15–45 days</text>
+<text x="40" y="505" font-size="15" fill="#687b89" text-anchor="start">Overall: 480 signups → 256 activated → 208 retained. Rates are pooled from counts, not averaged.</text>
+<text x="40" y="534" font-size="14" fill="#687b89" text-anchor="start">Source: 03_activation_funnel.sql. Descriptive synthetic comparisons; no channel effect is identified.</text>
+</g></svg>

@@ -5,6 +5,7 @@ build:
 
 query: build
 	python scripts/run_queries.py
+	python scripts/render_results.py
 
 test:
 	python -m unittest discover -s tests -v

@@ -5,6 +5,7 @@ build:
 
 query: build
 	python scripts/run_queries.py
+	python scripts/run_as_of.py --as-of 2025-06-30
 	python scripts/render_results.py
 
 test:

@@ -9,6 +9,8 @@ All data are deterministic and synthetic. No real customer, patient, employee, o
 
 ## Business questions
 
+**New: observation-window-aware SQL.** [Inspect an as-of-date cohort snapshot](outputs/as-of-report.md) that separates incomplete follow-up from failure, excludes future events, and preserves explicit denominators. [Query and boundary rules](docs/as-of-metrics.md). The original graphs and full-history metrics are unchanged.
+
 - Which acquisition channels produce members who activate within 14 days?
 - How does monthly retention change across signup cohorts?
 - Which sites are meeting service targets, and where is performance changing?
